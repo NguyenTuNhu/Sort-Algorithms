@@ -11,5 +11,5 @@ from insertion_sort import insertionsort
 print("Sorting a list using Insertion sort algorithms: ", insertionsort(arr))
 
 from selection_sort import selectionsort
-print("Sorting a list using Insertion sort algorithms: ", selectionsort(arr))
+print("Sorting a list using Selection sort algorithms: ", selectionsort(arr))
 
